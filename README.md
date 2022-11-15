@@ -5,7 +5,7 @@
 I believe that *software is a solution*; designed and developed in order to help solve peoples' problems. I am passionate about user experience, human-centered design, machine learning, and any related topics! Always open to step out of my comfort zone, learn, and be exposed to new things!
 
 - :blush: Pronouns: he/him
-- :briefcase: Was most recently a UX Designer and Researcher with Commit the Change!
-- :mag: Currently looking for full-time opportunities within the realms of software, user experience, and machine learning!
+- :briefcase: Currently employed full-time as a software engineer!
+- :mag: Currently looking to expand my skillset in full-stack development!
 
 Want to reach out about anything or get in touch? Here's my [LinkedIn](https://www.linkedin.com/in/james-molamphy/), [resume](https://github.com/jmolamph/jmolamph/blob/main/resume_james_molamphy.pdf), and [email](jmolamph@uci.edu/)!
