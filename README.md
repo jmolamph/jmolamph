@@ -5,7 +5,7 @@
 I believe that *software is a solution*; designed and developed in order to help solve peoples' problems. I am passionate about user experience, human-centered design, machine learning, and any related topics! Always open to step out of my comfort zone, learn, and be exposed to new things!
 
 - :blush: Pronouns: he/him
-- :briefcase: Currently employed full-time as a software engineer!
-- :mag: Currently looking to expand my skillset in full-stack development!
+- :briefcase: Currently employed full-time as a software engineer at Sun West Mortgage Company, Inc.!
+- :mag: Currently looking to expand my skillset in full-stack development and UI/UX design!
 
 Want to reach out about anything or get in touch? Here's my [LinkedIn](https://www.linkedin.com/in/james-molamphy/), [resume](https://github.com/jmolamph/jmolamph/blob/main/resume_james_molamphy.pdf), and [email](jmolamph@uci.edu/)!
